@@ -1,4 +1,6 @@
 # nodejs-mysql-fileuploader
+
+YOUTUBE（https://youtu.be/qU2-vnx0t8s）参考
 画像投稿アプリケーションの作成
 （Node.jsとMysqlを使用）
 
