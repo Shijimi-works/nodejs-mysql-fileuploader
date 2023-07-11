@@ -12,4 +12,4 @@ YOUTUBE（https://youtu.be/qU2-vnx0t8s）参考
 サーバーサイド側で設定したAPIがMYSQLへ画像を保存⇩
 保存したもをサーバーに戻して、クライアント側（Web上）へ表示する
 
-7/11  完成
+7/11  完成　localhostは8000で設定
